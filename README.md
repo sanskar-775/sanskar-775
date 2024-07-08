@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskar-775&label=Profile%20views&color=0e75b6&style=flat" alt="sanskar-775" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskar-775" alt="sanskar-775" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **React|Python|Java|CP**
 
