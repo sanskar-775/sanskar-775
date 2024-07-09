@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src='https://media.tenor.com/images/f83458652289855ac77a3270eb51ab9e/tenor.gif' width='50' height='50'>, I'm Sanskar Sharma</h1>
-<div align="center">z
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Passionate+Developer💙;Innovative+Thinker⭐;Problem+Solver🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Heir-of-God)
 
