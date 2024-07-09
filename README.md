@@ -22,6 +22,16 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar-775&show_icons=true&locale=en&layout=compact" alt="sanskar-775" /></p>
 
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+Oh, and I really love wise quotes that make you think. So I'm leaving a random quote here)
+
+![](https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal)
+
+</div>
+
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=sanskar-775&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
