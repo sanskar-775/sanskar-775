@@ -30,16 +30,10 @@
 
 </div>
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sanskar-775&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
 ---
 <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
