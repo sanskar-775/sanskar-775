@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src='[https://media.tenor.com/images/f83458652289855ac77a3270eb51ab9e/tenor.gif](https://tenor.com/en-GB/view/hello-yellow-hey-emoji-hand-gif-22238224)' width='50' height='50'>, I'm Sanskar Sharma</h1>
-<div align="center">
+<h1 align="center">Hi <img src='[[https://media.tenor.com/images/f83458652289855ac77a3270eb51ab9e/tenor.gif](https://tenor.com/en-GB/view/hello-yellow-hey-emoji-hand-gif-22238224)](https://tenor.com/en-GB/view/hi-mods-and-staff-ily-gif-25934904)' width='50' height='50'>, I'm Sanskar Sharma</h1>
+<div align="center">z
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?&color=2484FF&size=32&lines=Passionate+Developer💙;Innovative+Thinker⭐;Problem+Solver🎯;Constantly+Learning⚡&font=Pacifico&center=true&height=50&width=600&vCenter=true)](https://github.com/Heir-of-God)
 
