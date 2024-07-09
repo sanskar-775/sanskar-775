@@ -22,8 +22,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar-775&show_icons=true&locale=en&layout=compact" alt="sanskar-775" /></p>
 
-## ✍️ Random Dev Quote 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## ✍️ Random Dev Quote <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <div align="center">
 
